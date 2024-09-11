@@ -6,7 +6,7 @@ I'm currently a college student pursuing a degree in [MECHANICAL ENGINEERING] at
 - 🎓 Studying **SOFTWARE** with a focus on **SOFTWARE FIELD or FULL STACK DEVELPER**
 - 🛠️ Currently learning **Programming Languages, Frameworks, or Technologies**
 - 🌱 Exploring areas like ** Web Development**
-- 📫 How to reach me: **sachinkanag@143@gmail.com, contact +91 7530019437**
+- 📫 How to reach me: ** @ sachinkanag143@gmail.com, contact +91 7530019437**
 
 ### 🔧 Languages & Tools:
 - **Languages:** [ Python, Java, C++,HTML,CSS]
