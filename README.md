@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [Your Name]
+# Hi there 👋, I'm [SACHIN K S]
 
 [![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)](https://github.com/your-github-username?tab=followers)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--profile-blue)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-your--linkedin--profile-blue)](https://www.linkedin.com/in/sachin-k-s-0348ba269/).
 
 ## About Me
 
