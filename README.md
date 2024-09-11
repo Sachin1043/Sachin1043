@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm SACHIN K S
+# Hi there! 👋 I'm , SACHIN K S
 
 I'm currently a college student pursuing a degree in [MECHANICAL ENGINEERING] at [KARPAGAM INSTITUE OF TECHNOLOGY]. I'm passionate about learning new technologies, building cool projects, and collaborating with others on open-source initiatives.
 
